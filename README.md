@@ -1,5 +1,6 @@
 # DungeonGame
-A simple RPG game made with C++ and SFML
+### This is a project of making a simple RPG game for 109-2 Object Oriented Programming and Data Structure of NCTU CS.
+### Made with C++ and SFML library.
 
 Some demo view:
 
